@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=salmanpaul&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=salmansaeedpaul&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -60,7 +60,7 @@
   <a href="https://www.youtube.com/@salmanpal4917" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/salmanpaul987/" target="_blank">
+  <a href="https://www.instagram.com/salmansaeedpaul987/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F56040&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
@@ -69,7 +69,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/salmanpaul/salmanpaul/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/salmansaeedpaul/salmansaeedpaul/output/snake.svg" alt="Snake animation" />
 
 ###
 
